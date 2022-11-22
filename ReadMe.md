@@ -34,4 +34,4 @@ MIT
 
 ## Author
 
-Thomas Howard, <https://github.com/1homas>
+Charlie Moreton, <https://github.com/1homas>
